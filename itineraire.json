@@ -1,0 +1,469 @@
+{
+  "pays": "Slovénie",
+  "drapeau": "🇸🇮",
+  "symbole": "🏞️",
+  "titre": "Évasion Relaxante au Cœur de la Slovénie",
+  "budget_total": "Environ 2600 €/personne",
+  "duree": "14 jours",
+  "date_debut": "2026-03-07",
+  "date_fin": "2026-03-21",
+  "temps_vol": "10h40 (depuis Thibault, Canada)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Ljubljana et Douce Immersion",
+      "legende": "Après un long voyage, la capitale slovène vous accueille avec sa douceur. Installez-vous et laissez-vous charmer par les rives de la Ljubljanica, un premier aperçu relaxant de cette ville verte.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Ljubljana (LJU) et transfert vers le centre-ville.",
+        "<strong>🛏️</strong>: Installation à votre hôtel et temps libre pour vous rafraîchir.",
+        "<strong>🚶‍♀️</strong>: Première balade relaxante le long de la rivière Ljubljanica, découvrant les ponts emblématiques."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre de Ljubljana est en grande partie piéton, idéal pour des balades tranquilles. Les \"Kavalir\" (petits véhicules électriques) peuvent vous transporter gratuitement."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Ljubljana, entre Histoire et Charme Urbain",
+      "legende": "Explorez le cœur historique de Ljubljana, de son château dominant la ville à ses marchés animés. Une journée pour s'imprégner de l'atmosphère unique de la capitale slovène, sans hâte.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🚠</strong>: Montée au Château de Ljubljana pour une vue panoramique sur la ville et les Alpes juliennes.",
+        "<strong>🚶‍♂️</strong>: Flânerie dans la Vieille Ville, découverte de la Place Prešeren et du Triple Pont.",
+        "<strong>🛍️</strong>: Visite du Marché Central de Ljubljana, pour ses produits locaux et son ambiance authentique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Ljubljana, Ljubljana",
+          "categorie": "Château",
+          "coords": { "lat": 46.0499, "lng": 14.5070 }
+        },
+        {
+          "nom_recherche": "Place Prešeren, Ljubljana",
+          "categorie": "Place",
+          "coords": { "lat": 46.0514, "lng": 14.5059 }
+        },
+        {
+          "nom_recherche": "Marché Central de Ljubljana, Ljubljana",
+          "categorie": "Marché",
+          "coords": { "lat": 46.0528, "lng": 14.5080 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Pause gourmande",
+          "texte": "Profitez des nombreux cafés et restaurants le long de la rivière pour un déjeuner paisible."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Le Lac de Bled, Joyau Alpin",
+      "legende": "Direction le lac de Bled, une icône slovène. Laissez-vous émerveiller par son île et son château, et profitez d'une balade sereine autour de ses eaux émeraude. Une journée de pure contemplation.",
+      "lieu": "Bled",
+      "activites": [
+        "<strong>🚗</strong>: Trajet matinal vers Bled (environ 45 min depuis Ljubljana).",
+        "<strong>🛶</strong>: Promenade en \"Pletna\" (barque traditionnelle) jusqu'à l'île de Bled et visite de l'église.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante le long des rives du lac de Bled, admirant les paysages."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac de Bled, Bled",
+          "categorie": "Lac",
+          "coords": { "lat": 46.3626, "lng": 14.0997 }
+        },
+        {
+          "nom_recherche": "Château de Bled, Bled",
+          "categorie": "Château",
+          "coords": { "lat": 46.3678, "lng": 14.1009 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍰",
+          "titre": "Douceur locale",
+          "texte": "Ne quittez pas Bled sans goûter la \"Kremšnita\", le gâteau à la crème emblématique de la région."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛰️",
+      "titre": "Bled et Vues Panoramiques",
+      "legende": "Poursuivez l'exploration de Bled avec une visite du château perché et des points de vue imprenables. Une journée pour s'imprégner de la majesté des Alpes juliennes et de la beauté du lac.",
+      "lieu": "Bled",
+      "activites": [
+        "<strong>🏰</strong>: Visite du Château de Bled, offrant des vues spectaculaires sur le lac et ses environs.",
+        "<strong>🚶‍♂️</strong>: Randonnée douce vers un point de vue comme Ojstrica ou Mala Osojnica pour des photos mémorables.",
+        "<strong>☕</strong>: Détente dans un café au bord du lac, savourant l'ambiance paisible."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Bled, Bled",
+          "categorie": "Château",
+          "coords": { "lat": 46.3678, "lng": 14.1009 }
+        },
+        {
+          "nom_recherche": "Point de vue Ojstrica, Bled",
+          "categorie": "Point de vue",
+          "coords": { "lat": 46.3547, "lng": 14.0903 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Conseil photo",
+          "texte": "Les points de vue autour du lac offrent les meilleures perspectives pour capturer la beauté de Bled, surtout au lever ou au coucher du soleil."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🌲",
+      "titre": "Lac Bohinj, Sérénité Naturelle",
+      "legende": "Échappez à la foule en vous dirigeant vers le lac Bohinj, plus sauvage et authentique. Profitez d'une balade paisible et d'une vue imprenable depuis le mont Vogel, accessible en téléphérique.",
+      "lieu": "Lac Bohinj",
+      "activites": [
+        "<strong>🚗</strong>: Court trajet vers le Lac Bohinj (environ 30 min depuis Bled).",
+        "<strong>🚶‍♀️</strong>: Balade relaxante le long des rives du Lac Bohinj, moins fréquenté que Bled.",
+        "<strong>🚠</strong>: Montée en téléphérique au Mont Vogel pour des vues panoramiques sur le lac et les Alpes juliennes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac Bohinj, Bohinjsko Jezero",
+          "categorie": "Lac",
+          "coords": { "lat": 46.2769, "lng": 13.8694 }
+        },
+        {
+          "nom_recherche": "Téléphérique Vogel, Bohinjsko Jezero",
+          "categorie": "Téléphérique",
+          "coords": { "lat": 46.2721, "lng": 13.8349 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧘‍♀️",
+          "titre": "Moment de calme",
+          "texte": "Le lac Bohinj est parfait pour la méditation ou simplement pour profiter du silence de la nature."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "💦",
+      "titre": "Détente aux Sources Thermales de Rimske Terme",
+      "legende": "Après les paysages alpins, offrez-vous une pause bien-être aux thermes de Rimske Terme. Plongez dans les eaux curatives et laissez-vous dorloter dans un cadre historique et apaisant.",
+      "lieu": "Rimske Terme",
+      "activites": [
+        "<strong>🚗</strong>: Trajet vers Rimske Terme (environ 1h30 depuis Bohinj).",
+        "<strong>🛏️</strong>: Installation à l'hôtel thermal et découverte des installations.",
+        "<strong>🧖‍♀️</strong>: Première session de détente dans les piscines thermales et saunas."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rimske Terme, Rimske Toplice",
+          "categorie": "Spa thermal",
+          "coords": { "lat": 46.1044, "lng": 15.2017 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "📜",
+          "titre": "Histoire",
+          "texte": "Les thermes de Rimske Toplice sont réputés depuis l'époque romaine pour leurs eaux aux propriétés curatives."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "💆‍♀️",
+      "titre": "Journée Complète de Bien-être",
+      "legende": "Profitez pleinement des bienfaits des eaux thermales et des soins proposés à Rimske Terme. Une journée entièrement dédiée à la relaxation et au ressourcement, loin de toute agitation.",
+      "lieu": "Rimske Terme",
+      "activites": [
+        "<strong>🏊‍♀️</strong>: Baignade et relaxation dans les différentes piscines intérieures et extérieures.",
+        "<strong>🧖‍♂️</strong>: Accès aux saunas, hammams et zones de relaxation pour une détente profonde.",
+        "<strong>🌿</strong>: Promenade douce dans les jardins environnants ou lecture au calme."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rimske Terme, Rimske Toplice",
+          "categorie": "Spa thermal",
+          "coords": { "lat": 46.1044, "lng": 15.2017 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Vertus de l'eau",
+          "texte": "Les eaux de Rimske Terme sont riches en minéraux et réputées pour leurs effets bénéfiques sur la santé et le bien-être."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🦇",
+      "titre": "Mystères Souterrains et Château Rupestre",
+      "legende": "Quittez la sérénité des thermes pour explorer les merveilles souterraines de la grotte de Postojna et l'impressionnant château de Predjama, niché dans la roche. Une journée fascinante et sans effort.",
+      "lieu": "Postojna",
+      "activites": [
+        "<strong>🚗</strong>: Trajet vers Postojna (environ 1h15 depuis Rimske Terme).",
+        "<strong>🚂</strong>: Visite de la Grotte de Postojna en petit train, une expérience unique et accessible.",
+        "<strong>🏰</strong>: Découverte du Château de Predjama, un chef-d'œuvre architectural encastré dans une falaise."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Grotte de Postojna, Postojna",
+          "categorie": "Grotte",
+          "coords": { "lat": 45.7820, "lng": 14.2045 }
+        },
+        {
+          "nom_recherche": "Château de Predjama, Predjama",
+          "categorie": "Château",
+          "coords": { "lat": 45.8153, "lng": 14.1256 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "La Grotte de Postojna abrite le Protée anguillard, un amphibien aveugle surnommé le \"bébé dragon\"."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🌊",
+      "titre": "Piran, Perle de l'Adriatique",
+      "legende": "Cap sur la côte adriatique pour découvrir Piran, une ville médiévale pleine de charme. Flânez dans ses ruelles étroites, admirez la place Tartini et profitez de l'air marin apaisant.",
+      "lieu": "Piran",
+      "activites": [
+        "<strong>🚗</strong>: Trajet vers Piran (environ 1h depuis Postojna).",
+        "<strong>🚶‍♀️</strong>: Installation à l'hôtel et première exploration de la vieille ville de Piran.",
+        "<strong>🌅</strong>: Coucher de soleil depuis les remparts de Piran ou la pointe de la péninsule."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piran, Piran",
+          "categorie": "Ville côtière",
+          "coords": { "lat": 45.5286, "lng": 13.5678 }
+        },
+        {
+          "nom_recherche": "Place Tartini, Piran",
+          "categorie": "Place",
+          "coords": { "lat": 45.5298, "lng": 13.5673 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🐟",
+          "titre": "Dégustation",
+          "texte": "Profitez des nombreux restaurants de fruits de mer frais le long du port de Piran."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "⛵",
+      "titre": "Charme Côtier et Salines de Sečovlje",
+      "legende": "Poursuivez votre immersion sur la côte slovène. Entre les charmes de Piran et la visite des salines historiques de Sečovlje, cette journée allie détente et découverte culturelle douce.",
+      "lieu": "Piran / Sečovlje",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Matinée libre pour flâner dans Piran, visiter l'église Saint-Georges ou simplement profiter de l'ambiance.",
+        "<strong>🚗</strong>: Courte excursion aux Salines de Sečovlje, un paysage unique et un patrimoine important.",
+        "<strong>☕</strong>: Détente dans un café de Portorož, station balnéaire voisine, pour observer l'animation."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Salines de Sečovlje, Sečovlje",
+          "categorie": "Site naturel",
+          "coords": { "lat": 45.4880, "lng": 13.6000 }
+        },
+        {
+          "nom_recherche": "Portorož, Portorož",
+          "categorie": "Station balnéaire",
+          "coords": { "lat": 45.5130, "lng": 13.5870 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🧂",
+          "titre": "Or blanc",
+          "texte": "Les salines de Sečovlje sont parmi les dernières salines où le sel est encore récolté de manière traditionnelle."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🍇",
+      "titre": "Retour vers l'Intérieur et Vallée de la Vipava",
+      "legende": "Quittez la côte pour remonter vers l'intérieur des terres, en traversant la pittoresque Vallée de la Vipava. Profitez d'un paysage vallonné et, pourquoi pas, d'une dégustation de vins locaux dans une ambiance décontractée.",
+      "lieu": "Vallée de la Vipava",
+      "activites": [
+        "<strong>🚗</strong>: Trajet retour vers le centre de la Slovénie, avec un arrêt dans la Vallée de la Vipava (environ 1h30 depuis Piran).",
+        "<strong>🍷</strong>: Visite d'un domaine viticole local pour une dégustation de vins (sur réservation, activité douce).",
+        "<strong>🚶‍♀️</strong>: Courte balade dans les vignobles ou dans un village typique de la vallée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vallée de la Vipava, Vipava",
+          "categorie": "Région viticole",
+          "coords": { "lat": 45.8480, "lng": 13.9630 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🍇",
+          "titre": "Vins uniques",
+          "texte": "La Vallée de la Vipava est réputée pour ses cépages autochtones et ses vins de caractère, souvent produits par de petits vignerons."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🌳",
+      "titre": "Ljubljana et Parc Tivoli",
+      "legende": "Retour à Ljubljana pour une fin de séjour en douceur. Profitez de l'après-midi pour explorer le vaste Parc Tivoli, le poumon vert de la ville, idéal pour une promenade relaxante et une bouffée d'air frais.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🚗</strong>: Retour à Ljubljana (environ 1h depuis la Vallée de la Vipava), installation à l'hôtel.",
+        "<strong>🚶‍♂️</strong>: Promenade paisible dans le Parc Tivoli, le plus grand parc de Ljubljana.",
+        "<strong>🖼️</strong>: Visite de la Galerie d'art moderne ou du Musée national de Slovénie (selon vos envies)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parc Tivoli, Ljubljana",
+          "categorie": "Parc",
+          "coords": { "lat": 46.0540, "lng": 14.4920 }
+        },
+        {
+          "nom_recherche": "Musée National de Slovénie, Ljubljana",
+          "categorie": "Musée",
+          "coords": { "lat": 46.0506, "lng": 14.4990 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🚴‍♀️",
+          "titre": "Activité douce",
+          "texte": "Le Parc Tivoli est également parfait pour une balade à vélo, avec des pistes bien aménagées."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🛍️",
+      "titre": "Derniers Plaisirs Slovènes",
+      "legende": "Profitez de cette dernière journée pour vous imprégner une dernière fois de l'ambiance de Ljubljana. Faites quelques emplettes, savourez un café en terrasse ou revisitez un lieu coup de cœur, sans aucune contrainte.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>☕</strong>: Matinée libre pour profiter des cafés de Ljubljana ou faire du shopping de souvenirs.",
+        "<strong>🚶‍♀️</strong>: Re-découverte d'un quartier de Ljubljana que vous avez particulièrement apprécié.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant typique, savourant les saveurs slovènes."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le marché des antiquaires le dimanche (si applicable) ou les petites boutiques du centre-ville offrent de jolis souvenirs artisanaux."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🛫",
+      "titre": "Départ de Slovénie",
+      "legende": "C'est le moment de dire au revoir à la Slovénie, des souvenirs de paysages apaisants et de moments de détente plein la tête. Transfert vers l'aéroport pour votre vol retour.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🍳</strong>: Petit-déjeuner à l'hôtel.",
+        "<strong>🚗</strong>: Transfert vers l'aéroport de Ljubljana (LJU).",
+        "<strong>🛫</strong>: Vol retour vers le Canada."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Conseil aéroport",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport et les formalités d'enregistrement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 745 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 300 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 700 €/pers (base 50€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 650 €/pers (base 100€/nuit pour 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 200 €/pers (entrées sites, spa, pletna)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" },
+    { "titre": "Mars (début du printemps, moins de foule)", "symbole": "🌷" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mars, les températures varient entre 0 et 10°C. Prévoir des vêtements chauds et imperméables, surtout en montagne.", "symbole": "🧣" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La conduite se fait à droite. Un permis de conduire canadien est suffisant pour la location de voiture. Une vignette est obligatoire pour les autoroutes.", "symbole": "🚗" },
+    { "titre": "La langue officielle est le slovène, mais l'anglais est couramment parlé dans les zones touristiques. Un adaptateur de type F ou C est nécessaire pour les prises électriques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🐉",
+      "titre": "Le Dragon de Ljubljana",
+      "texte": "Le dragon est le symbole de Ljubljana, représentant la puissance, le courage et la grandeur. La légende raconte que Jason et les Argonautes ont vaincu un dragon dans les marais de Ljubljana après avoir volé la Toison d'Or."
+    },
+    {
+      "symbole": "💚",
+      "titre": "Le pays de l'amour",
+      "texte": "La Slovénie est le seul pays au monde dont le nom contient le mot \"LOVE\" (sLOVEnia). Un fait charmant qui reflète bien la beauté et la douceur de ses paysages."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍰",
+      "titre": "Potica",
+      "description": "Un gâteau roulé traditionnel, souvent fourré aux noix, au pavot, au fromage cottage ou à l'estragon. Un délice incontournable pour les amateurs de douceurs."
+    },
+    {
+      "symbole": "🌭",
+      "titre": "Kranjska klobasa",
+      "description": "La saucisse de Carniole, une saucisse fumée et légèrement épicée, souvent servie avec de la moutarde et du raifort. Un plat simple mais savoureux, parfait pour un repas réconfortant."
+    },
+    {
+      "symbole": "🥧",
+      "titre": "Prekmurska gibanica",
+      "description": "Un gâteau feuilleté multicouche originaire de la région de Prekmurje, alternant des couches de pâte avec des garnitures de pavot, de fromage cottage, de noix et de pommes. Un dessert riche et gourmand."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/YYZ-LJU/2026-03-07/2026-03-21", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Slovénie", "url": "https://www.slovenia.info/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Slovénie", "url": "https://www.rentalcars.com/fr/country/si/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Slovénie", "url": "https://www.accuweather.com/fr/si/slovenia-weather", "symbole": "🌤️" }
+  ]
+}
